@@ -1,6 +1,6 @@
 # Hardhat ERC20
 
-This project demonstrates a smart contract that creates an ERC20 token called OT
+This project demonstrates a smart contract that creates an ERC20 token called OT using OpenZepplin template
 
 # Requirements
 
